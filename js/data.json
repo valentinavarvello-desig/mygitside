@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ford Mustang",
+    "year": 1967,
+    "origin": "United States"
+  },
+  {
+    "name": "Porsche 911",
+    "year": 1973,
+    "origin": "Germany"
+  },
+  {
+    "name": "Jaguar E-Type",
+    "year": 1961,
+    "origin": "United Kingdom"
+  },
+  {
+    "name": "Volkswagen Beetle",
+    "year": 1963,
+    "origin": "Germany"
+  },
+  {
+    "name": "Chevrolet Corvette",
+    "year": 1963,
+    "origin": "United States"
+  },
+  {
+    "name": "Ferrari 250 GTO",
+    "year": 1962,
+    "origin": "Italy"
+  }
+  ]
