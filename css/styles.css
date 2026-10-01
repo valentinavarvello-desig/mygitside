@@ -34,6 +34,7 @@ p{
     width: 90%;
     background-color: #A8202B;
     color: #242123;
+    height: 20%;
     margin: 20px auto;
     padding: 10px;
     border-radius: 10px;
@@ -47,7 +48,6 @@ color:white
     font-size: 1.2em;
     border: 2px solid #242123;
     width: 30%;
-    height: 20%;
     text-align: center;
     border-radius: 10px;
     display: inline-block;
